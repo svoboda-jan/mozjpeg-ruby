@@ -10,7 +10,7 @@ This gem was successfully tested on the following systems: (test for binaries in
 * Linux CentOS 6 - ruby 2.2.2
 * Windows XP - ruby 2.0.0p645
 
-Please report other systems that work, any problems or questions opening and issue on GitHub.
+Please report other systems that work, any problems or questions opening an issue on GitHub.
 
 ## Installation
 
