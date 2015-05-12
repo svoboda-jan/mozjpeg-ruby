@@ -39,7 +39,7 @@ Mozjpeg.cjpeg_path
 # => /path/to/gems/bundled/cjpeg
 # raises error if not supported
 
-# compress JPEG file (accepts instances of `File`)
+# compress JPEG file (accepts instances of File)
 large_image = File.new('large.jpeg')
 tiny_image = File.new('tiny.jpeg')
 
@@ -52,12 +52,14 @@ Mozjpeg.compress large_image, tiny_image, arguments: '-quality 70 -quant-table 2
 
 ## [Paperclip](https://github.com/thoughtbot/paperclip)
 
-This gem was made to be used with the `paperclip-mozjpeg` gem, which adds file processor to compress JPEG images uploaded using the [paperclip](https://github.com/thoughtbot/paperclip) gem.
+This gem was made to be used with the [`paperclip-mozjpeg`](https://github.com/svoboda-jan/paperclip-mozjpeg) gem, which adds file processor to compress JPEG images uploaded using the [`paperclip`](https://github.com/thoughtbot/paperclip) gem.
 
 ## License
 
 This gem is licensed under the MIT license.
+
 [MozJPEG license](https://github.com/mozilla/mozjpeg/blob/master/LICENSE.txt)
+
 The included JPEG fixture photo for tests is licenced under Creative Commons - CC0.
 
 ## Contributing
