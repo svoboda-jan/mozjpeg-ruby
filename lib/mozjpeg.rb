@@ -15,7 +15,7 @@ module Mozjpeg
         'win/cjpeg.exe'
       elsif OS.mac? && OS.bits == 64
         'darwin/cjpeg'
-      elsif OS.linux? && os.bits == 64
+      elsif OS.linux? && OS.bits == 64
         'linux/cjpeg'
       else
         raise "MozJPEG for your platform was not found."
