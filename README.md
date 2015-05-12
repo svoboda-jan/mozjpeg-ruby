@@ -6,9 +6,9 @@ Binaries of [MozJPEG 3.0](https://boomswaggerboom.wordpress.com/2014/12/30/mozjp
 
 This gem was successfully tested on the following systems: (test for binaries included in the source)
 
-* Mac OS X 10.10 - ruby 2.2.2
-* Linux CentOS 6 - ruby 2.2.2
-* Windows XP - ruby 2.0.0p645
+* Mac OS X 10.10 - ruby 2.2.2 (PNG + JPEG)
+* Linux CentOS 6 - ruby 2.2.2 (JPEG only)
+* Windows XP - ruby 2.0.0p645 (JPEG only)
 
 Please report other systems that work, any problems or questions opening an issue on GitHub.
 
