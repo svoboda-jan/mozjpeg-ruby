@@ -2,7 +2,7 @@
 
 This repository contains the ruby library for easy interaction with MozJPEG compressor, an improved JPEG encoder (based on cjpeg).
 
-Binaries of [MozJPEG 3.0](https://boomswaggerboom.wordpress.com/2014/12/30/mozjpeg-3-0-released/) for Mac OS X (64bit), Linux (64bit) and Windows are included in this gem.
+Binaries of [MozJPEG 3.0](https://github.com/mozilla/mozjpeg#mozilla-jpeg-encoder-project-) for Mac OS X (64bit), Linux (64bit) and Windows are included in this gem.
 
 This gem was successfully tested on the following systems: (test for binaries included in the source)
 
